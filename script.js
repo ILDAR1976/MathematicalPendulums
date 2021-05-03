@@ -1,4 +1,8 @@
-﻿window.addEventListener("load", Main_Spring, true);
+﻿/*
+   Thanks to the developer Sergey Aleksandrov
+ */
+
+window.addEventListener("load", Main_Spring, true);
 function Main_Spring() {
 
     // *** Некие исходные данные ***
